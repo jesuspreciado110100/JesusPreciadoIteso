@@ -1,0 +1,2 @@
+# JesusPreciadoIteso
+simulacion matematica
